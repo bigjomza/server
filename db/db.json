@@ -1,5 +1,19 @@
 {
-    "todos":[
-        
-    ]
+  "todos": [
+    {
+      "id": 1,
+      "name": "Shopping",
+      "complete": false
+    },
+    {
+      "name": "จะทำได้ไหม",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "name": "ทำได้รึป่าว",
+      "complete": false,
+      "id": 3
+    }
+  ]
 }
